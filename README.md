@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Hassanbutt1103
-- 👀 I’m interested in learning mern Stack and 3D blender. 
-- 🌱 I’m currently learning react. 
+- 👀 I’m interested in learning mern Stack and 3D blender.  
 - 💞️ I’m looking to collaborate on github for further learning new features. 
 - 📫 1103butt@gmail.com Gmail me. I response you as soon as possible.
 - 😄 Pronouns: Hassan Ibne Hussain
